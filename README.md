@@ -1,8 +1,8 @@
-[![MasterHead](https://github.com/abdussamadkhan/github.io/blob/c76172488c5b8c71b817500298affe073aee2877/IMG_0209%202.jpg)]
+![MasterHead](https://github.com/abdussamadkhan/github.io/blob/c76172488c5b8c71b817500298affe073aee2877/IMG_0209%202.jpg)
 
 <h1 align="center">Hi 👋, I'm Abdus Samad Khan</h1>
 <h3 align="center">Cybersecurity Specialist | Network Engineer | MSc in Cybersecurity with Distinction | GCC | CC | Sec+ | CNSS | Passionate about Building Resilient Digital Defenses</h3>
-<img align="right" alt="Coding" width="400" src= https://dribbble.com/shots/2417386-The-Hacker/attachments/9290049?mode=media>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1026227/screenshots/2417386/media/c7c76237fe6909ab2a83f62ccccece8a.gif">
 
 <p align="left"> <a href="https://twitter.com/retardedteen1" target="blank"><img src="https://img.shields.io/twitter/follow/retardedteen1?logo=twitter&style=for-the-badge" alt="retardedteen1" /></a> </p>
 
