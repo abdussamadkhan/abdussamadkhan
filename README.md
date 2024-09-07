@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/abdussamadkhan/github.io/blob/c76172488c5b8c71b817500298affe073aee2877/IMG_0209%202.jpg)
+![MasterHead](https://github.com/abdussamadkhan/github.io/blob/7fb7a45c467ac766659f1844c7fd4a2ab01a4c90/24C8CB96-E78E-44D1-AAC2-B90FF614A5F8.JPG)
 
 <h1 align="center">Hi 👋, I'm Abdus Samad Khan</h1>
 <h3 align="center">Cybersecurity Specialist | Network Engineer | MSc in Cybersecurity with Distinction | GCC | CC | Sec+ | CNSS | Passionate about Building Resilient Digital Defenses</h3>
